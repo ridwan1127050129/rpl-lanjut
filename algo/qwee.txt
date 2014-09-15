@@ -1,1 +1,0 @@
-Algoritma Linear Search adalah algoritma pencarian yang paling sederhana. Linear Search bekerja dengan membandingkan nilai yang dicari dengan setiap element pada array ( pada umumnya ) secara sequen
